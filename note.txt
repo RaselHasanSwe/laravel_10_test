@@ -1,0 +1,11 @@
+1. Service Container
+2. Service Provider
+3. Facade
+4. Macro
+5. View Composer
+6. Observer -> 3 way -> model boot way -> observer class way -> event listner
+7. Cache -> Cache::get(), Cache::put(), Cache::forget(), Cache::flush(), Cache::forever()
+8. Mail Queue and Job
+9. Event Lintner done in step 6
+10. Notifications -> mail notifcation -> database notifcation
+
